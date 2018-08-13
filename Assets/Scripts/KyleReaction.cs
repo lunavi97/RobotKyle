@@ -23,7 +23,7 @@ public class KyleReaction : MonoBehaviour {
 
 	public void Reaction()
 	{
-		anim.Play("Golpe");
+		anim.Play("Knock");
 		sound.Play();
 	}
 
